@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "srparasites:blocks/inf_biomepurifier_all",
+    "down": "srparasites:blocks/inf_biomepurifier_all",
+    "up": "srparasites:blocks/inf_biomepurifier_all",
+    "east": "srparasites:blocks/inf_biomepurifier_all",
+    "west": "srparasites:blocks/inf_biomepurifier_all",
+    "north": "srparasites:blocks/inf_biomepurifier_all",
+    "south": "srparasites:blocks/inf_biomepurifier_all"
+  }
+}
